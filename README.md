@@ -126,6 +126,9 @@ https://www.bynorth.com/).
 Details here
 https://venturebeat.com/2018/10/23/thalmic-labs-rebrands-as-north-launches-999-alexa-powered-holographic-glasses/.
 
+Then they are acquired by Google 
+https://techcrunch.com/2013/02/25/thalmic-labs-myo/#:~:text=Thalmic%20Labs%20was%20founded%20by,technology%20behind%20the%20Myo%20armband
+
 # References
 * Myo Bluetooth Protocol Release 
 https://developerblog.myo.com/myo-bluetooth-spec-released/
